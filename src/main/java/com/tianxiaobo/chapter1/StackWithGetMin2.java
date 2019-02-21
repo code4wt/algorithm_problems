@@ -3,7 +3,7 @@ package com.tianxiaobo.chapter1;
 import java.util.Stack;
 
 /**
- * StackWithGetMin1
+ * Q: 带有 getMin 功能的栈
  *
  * @author Tian ZhongBo
  * @date 2019-02-20 20:43:33

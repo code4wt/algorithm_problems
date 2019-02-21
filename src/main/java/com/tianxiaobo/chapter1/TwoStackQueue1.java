@@ -3,7 +3,7 @@ package com.tianxiaobo.chapter1;
 import java.util.Stack;
 
 /**
- * TwoStackQueue1
+ * Q: 由两个栈组成的队列
  *
  * @author Tian ZhongBo
  * @date 2019-02-21 10:58:03

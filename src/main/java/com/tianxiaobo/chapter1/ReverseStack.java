@@ -3,7 +3,7 @@ package com.tianxiaobo.chapter1;
 import java.util.Stack;
 
 /**
- * ReverseStack
+ * Q: 如何仅用递归函数和栈操作逆序一个栈
  *
  * @author Tian ZhongBo
  * @date 2019-02-21 13:38:31
