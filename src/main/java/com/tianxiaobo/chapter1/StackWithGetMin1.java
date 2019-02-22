@@ -38,32 +38,5 @@ public class StackWithGetMin1<T extends Comparable<T>> {
 
         return stackMin.peek();
     }
-
-    public static void main(String[] args) {
-        StackWithGetMin1<Integer> stack = new StackWithGetMin1<>();
-        stack.push(3);
-        stack.push(9);
-        stack.push(6);
-        stack.push(2);
-        stack.push(0);
-        stack.push(1);
-
-        // 0
-        System.out.println(stack.getMin());
-        stack.pop();
-        // 0
-        System.out.println(stack.getMin());
-        stack.pop();
-        // 2
-        System.out.println(stack.getMin());
-        stack.pop();
-        // 3
-        System.out.println(stack.getMin());
-        stack.pop();
-        // 3
-        System.out.println(stack.getMin());
-        stack.pop();
-        System.out.println(stack.getMin());
-    }
 }
 
